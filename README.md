@@ -6,7 +6,7 @@
 
 ## Numbers, Dates, etc ##
 - Numeraljs (http://numeraljs.com/)
-- momentjs (http://momentjs.com/)
+- Momentjs (http://momentjs.com/)
 
 
 ## UI Animations ##
