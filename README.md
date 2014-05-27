@@ -4,6 +4,10 @@
 ### Sliders ###
 - slick (http://kenwheeler.github.io/slick/)
 
+## Numbers, Dates, etc ##
+- Numeraljs (http://numeraljs.com/)
+- momentjs (http://momentjs.com/)
+
 
 ## UI Animations ##
 - Morphing Buttons Concept (http://tympanus.net/Development/ButtonComponentMorph/index.html)
