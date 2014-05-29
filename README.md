@@ -1,6 +1,10 @@
 # A list of Front-End related resources. #
 
 ## JS Plugins ##
+
+### Fixed header ###
+- [Headroom.js](http://wicky.nillia.ms/headroom.js/)
+
 ### Sliders ###
 - [slick](http://kenwheeler.github.io/slick/)
 
