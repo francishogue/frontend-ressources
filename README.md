@@ -8,6 +8,9 @@
 ### Sliders ###
 - [slick](http://kenwheeler.github.io/slick/)
 
+### Custom Select ###
+- [DropKick](http://robdel12.github.io/DropKick/)
+
 ### Numbers, Dates, etc ###
 - [Numeraljs](http://numeraljs.com/)
 - [Momentjs](http://momentjs.com/)
