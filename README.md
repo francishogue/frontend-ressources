@@ -9,7 +9,7 @@
 - [slick](http://kenwheeler.github.io/slick/)
 
 ### Custom Select ###
-- [DropKick](http://robdel12.github.io/DropKick/)
+- [jquery.customSelect](http://adam.co/lab/jquery/customselect/)
 
 ### Numbers, Dates, etc ###
 - [Numeraljs](http://numeraljs.com/)
