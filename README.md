@@ -1,5 +1,8 @@
 # A list of Front-End related resources. #
 
+## Images ##
+- [Picturefill](http://scottjehl.github.io/picturefill/)
+
 ## JS Plugins ##
 
 ### Fixed header ###
@@ -25,4 +28,8 @@
 
 ## Accessibility ##
 - [Section 508 Checklist](http://webaim.org/standards/508/checklist)
+- [A11Y Project](http://a11yproject.com/)
+- 
+## Generic Tips ##
+- [Top tips (for Sublime Text, Sass, CSS, Terminal and more)](http://benfrain.com/top-tips-selection-unrelated-front-end-developer-tips/)
 
