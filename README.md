@@ -5,7 +5,8 @@
 
 ## JS ##
 
-### Design Patterns ###
+### Best Practices, Design Patterns ###
+- [superherojs](http://superherojs.com/)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ### Plugins ###
