@@ -3,18 +3,23 @@
 ## Images ##
 - [Picturefill](http://scottjehl.github.io/picturefill/)
 
-## JS Plugins ##
+## JS ##
 
-### Fixed header ###
+### Design Patterns ###
+- [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+### Plugins ###
+
+#### Fixed header ####
 - [Headroom.js](http://wicky.nillia.ms/headroom.js/)
 
-### Sliders ###
+#### Sliders ####
 - [slick](http://kenwheeler.github.io/slick/)
 
-### Custom Select ###
+#### Custom Select ####
 - [jquery.customSelect](http://adam.co/lab/jquery/customselect/)
 
-### Numbers, Dates, etc ###
+#### Numbers, Dates, etc ####
 - [Numeraljs](http://numeraljs.com/)
 - [Momentjs](http://momentjs.com/)
 
